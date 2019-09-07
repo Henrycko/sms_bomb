@@ -52,9 +52,9 @@ load(){
         sleep 0.2
     done
 }
-clear
 load
-clear
+load
+load
 bom
 echo Selamat datang kak, Siapa nick kaka? #tulisan keluar
 read nick #membaca yang ditulis
